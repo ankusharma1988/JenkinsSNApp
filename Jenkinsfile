@@ -7,7 +7,7 @@ pipeline {
     DEVENV = 'https://hclnowintelligence.service-now.com/'
     TESTENV = 'https://hcltechdemosls4.service-now.com/'
     PRODENV = 'https://prodinstance.service-now.com/'
-    TESTSUITEID = '67fcab130b01220050192f15d6673a0c'
+    TESTSUITEID = 'bf8c266d732333005ce769972bf6a777'
   }
   stages {
     stage('Build') {
