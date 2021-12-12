@@ -33,5 +33,14 @@ pipeline {
       }
     }
     
+    stage('Deploy to Test') {
+      when {
+        branch 'master'
+      }
+      steps {
+        snInstallApp(credentialsId: "${CREDENTIALS}", url: "${TESTENV}", appSysId: "${APPSYSID}")
+      }
+    }
+    
   }
 }
