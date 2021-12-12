@@ -12,20 +12,20 @@ JenkinsSNAppScriptInclude.prototype = {
     initialize: function() {
     },
 // Test JenkinsSNAppScriptInclude
-// Test JenkinsSNAppScriptInclude post creating child branch
+// Test JenkinsSNAppScriptInclude post creating child branch1
     type: 'JenkinsSNAppScriptInclude'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>saurabh.m@hcl.com</sys_created_by>
         <sys_created_on>2021-12-11 09:22:57</sys_created_on>
         <sys_id>ce2b39ee1b9001501c7a415de54bcb16</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>JenkinsSNAppScriptInclude</sys_name>
         <sys_package display_value="JenkinsSNApp" source="x_hclte_jenkinssna">398ab9ae1b9001501c7a415de54bcb8e</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="JenkinsSNApp">398ab9ae1b9001501c7a415de54bcb8e</sys_scope>
         <sys_update_name>sys_script_include_ce2b39ee1b9001501c7a415de54bcb16</sys_update_name>
         <sys_updated_by>saurabh.m@hcl.com</sys_updated_by>
-        <sys_updated_on>2021-12-12 09:02:07</sys_updated_on>
+        <sys_updated_on>2021-12-12 09:45:22</sys_updated_on>
     </sys_script_include>
 </record_update>
