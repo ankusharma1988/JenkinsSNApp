@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_hclte_jenkinssna_u_string_1" label="Issue Summary" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_hclte_jenkinssna_u_string_1</element>
+            <help/>
+            <hint/>
+            <label>Issue Summary</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural>Issue Summaries</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>saurabh.m@hcl.com</sys_created_by>
+            <sys_created_on>2021-12-14 17:20:53</sys_created_on>
+            <sys_id>8f950f6f1b5045501c7a415de54bcbf0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Issue Summary</sys_name>
+            <sys_package display_value="JenkinsSNApp" source="x_hclte_jenkinssna">398ab9ae1b9001501c7a415de54bcb8e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JenkinsSNApp">398ab9ae1b9001501c7a415de54bcb8e</sys_scope>
+            <sys_update_name>sys_documentation_incident_x_hclte_jenkinssna_u_string_1_en</sys_update_name>
+            <sys_updated_by>saurabh.m@hcl.com</sys_updated_by>
+            <sys_updated_on>2021-12-14 17:20:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
